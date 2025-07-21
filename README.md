@@ -1,6 +1,6 @@
 # Angular Lazy Loading and Route Guards: Best Practices and Examples
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/687dbe89416fe15d8d95096e/angular-lazy-loading-and-route-guards-best-practices-and-examples).
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
 
