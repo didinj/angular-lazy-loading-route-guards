@@ -1,4 +1,6 @@
-# AngularLazyGuards
+# Angular Lazy Loading and Route Guards: Best Practices and Examples
+
+Read the full tutorial [here]().
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.1.
 
